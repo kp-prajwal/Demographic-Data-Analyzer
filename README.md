@@ -1,5 +1,5 @@
 # Demographic Data Analyzer
-*Free code Camp Demographic Data Analyzer Project* 
+*FCC Demographic Data Analyzer Project* 
 
 # Questions
 The goal here is to create a function that answers the following questions using Pandas:
