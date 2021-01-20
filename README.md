@@ -1,8 +1,8 @@
 # Demographic Data Analyzer
-*FCC Demographic Data Analyzer Project* 
+*freeCodeCamp Demographic Data Analyzer Project* 
 
 # The Project
-In this project, I had to write a function that would analyze demographic data. The data consisted of Census data obtained in 1994. I would parse through the data in order to address the questions provided by free code camp. 
+In this project, I wrote a function that would analyze demographic data using Pandas. I was given a dataset of demographic data that was extracted from the 1994 Census database. I parsed through the data in order to address the questions provided by freeCodeCamp.
 
 To see the instructions please follow the link: **https://repl.it/@freeCodeCamp/fcc-demographic-data-analyzer**
 
