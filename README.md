@@ -1,4 +1,4 @@
-# DemographicDataAnalyzer
+# Demographic Data Analyzer
 *Free code Camp Demographic Data Analyzer Project* 
 
 # Questions
