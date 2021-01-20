@@ -1,6 +1,11 @@
 # Demographic Data Analyzer
 *FCC Demographic Data Analyzer Project* 
 
+# The Project
+In this project, I had to write a function that would analyze demographic data. The data consisted of Census data obtained in 1994. I would parse through the data in order to address the questions provided by free code camp. 
+
+To see the instructions please follow the link: **https://repl.it/@freeCodeCamp/fcc-demographic-data-analyzer**
+
 # Questions
 The goal here is to create a function that answers the following questions using Pandas:
 
@@ -13,12 +18,6 @@ The goal here is to create a function that answers the following questions using
  * What percentage of the people who work the minimum number of hours per week have a salary of more than 50K?
  * What country has the highest percentage of people that earn >50K and what is that percentage?
  * Identify the most popular occupation for those who earn >50K in India.
-
-
-# The Project
-In this project, I had to write a function that would analyze demographic data. The data consisted of Census data obtained in 1994. I would parse through the data in order to address the questions provided by free code camp. 
-
-To see the instructions please follow the link: **https://repl.it/@freeCodeCamp/fcc-demographic-data-analyzer**
 
 # The Process
 The questions I need to answer were given to me, so the process was much easier this time around. https://github.com/kulkarniprajwal/Demographic-Data-Analyzer/blob/master/demographic.ipynb
